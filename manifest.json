@@ -6,6 +6,7 @@
 		{
 			"matches":[
 				"*://gather.town/*",
+				"*://app.gather.town/*",
 				"*://staging.gather.town/*"
 			],
 			"js": ["inject.js"],
